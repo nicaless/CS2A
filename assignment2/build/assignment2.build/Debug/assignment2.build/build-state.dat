@@ -1,0 +1,211 @@
+Tassignment2
+v7
+r0
+t361582762.712816
+cCheck dependencies
+cCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o /Users/Nicole/Desktop/C++/assignment2/a2_2.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment2/build/Debug/assignment2 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment2/a2_1.cpp
+c000000004FD6D01B00000000000004FE
+t1339478043
+s1278
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment2/a2_2.cpp
+c000000004FDD13B80000000000000390
+t1339888568
+s912
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment2/build/Debug/assignment2
+t1339889962
+s10936
+
+N/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o
+t1339888555
+s70616
+
+N/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o
+t1339889962
+s70152
+
+N/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/assignment2.LinkFileList
+c000000004FDD192A0000000000000073
+t1339889962
+s115
+
+N/Users/Nicole/Documents/assignment2/a2_1.cpp
+c000000004FD6CE6500000000000004F4
+t1339477605
+s1268
+i<iostream>
+
+N/Users/Nicole/Documents/assignment2/a2_1.h
+c000000004FD6BE14000000000000008D
+t1339473428
+s141
+
+N/Users/Nicole/Documents/assignment2/a2_1s.cpp
+c000000004FD6CC4D00000000000005C5
+t1339477069
+s1477
+i<iostream>
+
+N/Users/Nicole/Documents/assignment2/a2_1x.cpp
+c000000004FD6CDB5000000000000050A
+t1339477429
+s1290
+i<iostream>
+
+N/Users/Nicole/Documents/assignment2/a2_1x.h
+c000000004FD6CD0C000000000000008E
+t1339477260
+s142
+
+N/Users/Nicole/Documents/assignment2/a2_2.cpp
+c000000004FD6D1A20000000000000386
+t1339478434
+s902
+i<iostream>
+
+N/Users/Nicole/Documents/assignment2/a2_2.h
+c000000004FD6CC7D000000000000008D
+t1339477117
+s141
+
+N/Users/Nicole/Documents/assignment2/build/Debug/assignment2
+t1339478083
+s10928
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o
+t1339477605
+s70608
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1s.o
+t1339477430
+s70772
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1x.o
+t2
+s0
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o
+t1339478083
+s70000
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/assignment2.LinkFileList
+c000000004FD6D01B0000000000000071
+t1339478043
+s113
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Documents/assignment2/main.cpp
+c000000004FD6BDEB000000000000008F
+t1339473387
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies361582762#361582762#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o /Users/Nicole/Desktop/C++/assignment2/a2_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361581355.152972
+e361581355.498336
+r1
+xCompileC
+xbuild/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o
+x/Users/Nicole/Desktop/C++/assignment2/a2_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment2/a2_1.cpp361581355#361581355#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment2/a2_1.cpp8610998400#1352"    cd /Users/Nicole/Desktop/C++/assignment2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment2/build/Debug -I/Users/Nicole/Desktop/C++/assignment2/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment2/a2_1.cpp -o /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o /Users/Nicole/Documents/assignment2/a2_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361170405.537956
+e361170405.949532
+r1
+xCompileC
+xbuild/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o
+x/Users/Nicole/Documents/assignment2/a2_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Documents/assignment2/a2_1.cpp361170405#361170405#0(0"0(0#0#44"/Users/Nicole/Documents/assignment2/a2_1.cpp8614612288#1330"    cd /Users/Nicole/Documents/assignment2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-generated-files.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-own-target-headers.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-all-target-headers.hmap -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-project-headers.hmap -F/Users/Nicole/Documents/assignment2/build/Debug -I/Users/Nicole/Documents/assignment2/build/Debug/include -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources/x86_64 -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources -c /Users/Nicole/Documents/assignment2/a2_1.cpp -o /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1s.o /Users/Nicole/Documents/assignment2/a2_1s.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361170229.665272
+e361170230.170062
+r1
+xCompileC
+xbuild/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1s.o
+x/Users/Nicole/Documents/assignment2/a2_1s.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Nicole/Documents/assignment2/a2_1s.cpp361170229#361170230#0(0"0(0#0#45"/Users/Nicole/Documents/assignment2/a2_1s.cpp8614659680#1332"    cd /Users/Nicole/Documents/assignment2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-generated-files.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-own-target-headers.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-all-target-headers.hmap -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-project-headers.hmap -F/Users/Nicole/Documents/assignment2/build/Debug -I/Users/Nicole/Documents/assignment2/build/Debug/include -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources/x86_64 -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources -c /Users/Nicole/Documents/assignment2/a2_1s.cpp -o /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1s.o0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1x.o /Users/Nicole/Documents/assignment2/a2_1x.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o /Users/Nicole/Desktop/C++/assignment2/a2_2.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361582762.254891
+e361582762.690905
+r1
+xCompileC
+xbuild/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o
+x/Users/Nicole/Desktop/C++/assignment2/a2_2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment2/a2_2.cpp361582762#361582762#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment2/a2_2.cpp8611068896#1352"    cd /Users/Nicole/Desktop/C++/assignment2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment2/build/Debug -I/Users/Nicole/Desktop/C++/assignment2/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment2/a2_2.cpp -o /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o /Users/Nicole/Documents/assignment2/a2_2.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361170882.857434
+e361170883.119589
+r1
+xCompileC
+xbuild/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o
+x/Users/Nicole/Documents/assignment2/a2_2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Documents/assignment2/a2_2.cpp361170882#361170883#0(0"0(0#0#44"/Users/Nicole/Documents/assignment2/a2_2.cpp8614368544#1330"    cd /Users/Nicole/Documents/assignment2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-generated-files.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-own-target-headers.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-all-target-headers.hmap -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-project-headers.hmap -F/Users/Nicole/Documents/assignment2/build/Debug -I/Users/Nicole/Documents/assignment2/build/Debug/include -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources/x86_64 -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources -c /Users/Nicole/Documents/assignment2/a2_2.cpp -o /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_2.o0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/main.o /Users/Nicole/Documents/assignment2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment2/build/Debug/assignment2 normal x86_64
+s361582762.691014
+e361582762.712774
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment2/build/Debug/assignment2
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment2/build/Debug/assignment2361582762#361582762#0(0"0(0#0#0"8611769792#509"    cd /Users/Nicole/Desktop/C++/assignment2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment2/build/Debug -F/Users/Nicole/Desktop/C++/assignment2/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/assignment2.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment2/build/Debug/assignment20#
+
+CLd /Users/Nicole/Documents/assignment2/build/Debug/assignment2 normal x86_64
+s361170883.119664
+e361170883.205616
+r1
+xLd
+x/Users/Nicole/Documents/assignment2/build/Debug/assignment2
+xnormal
+xx86_64
+lSLF07#2@64"Link /Users/Nicole/Documents/assignment2/build/Debug/assignment2361170883#361170883#0(0"0(0#0#0"8614418272#499"    cd /Users/Nicole/Documents/assignment2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Documents/assignment2/build/Debug -F/Users/Nicole/Documents/assignment2/build/Debug -filelist /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/assignment2.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Documents/assignment2/build/Debug/assignment20#
+

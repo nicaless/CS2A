@@ -1,0 +1,73 @@
+Tassignment9
+v7
+r0
+t364163851.341736
+cCheck dependencies
+cCompileC build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o /Users/Nicole/Desktop/C++/assignment9/a9.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment9/a9.cpp
+c0000000050083EED0000000000000FCE
+t1342717677
+s4046
+i<iostream>
+i<iomanip>
+
+N/Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9
+t1342471051
+s17392
+
+N/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o
+t1342471051
+s77148
+
+N/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/assignment9.LinkFileList
+c000000004FFF66C40000000000000071
+t1342138052
+s113
+
+N/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment9/main.cpp
+c000000004FFF1DF3000000000000008F
+t1342119411
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies364163849#364163850#0(0"0(0#1#0"8611714752#0"0#
+
+CCompileC build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o /Users/Nicole/Desktop/C++/assignment9/a9.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s364163849.944150
+e364163851.069027
+r1
+xCompileC
+xbuild/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o
+x/Users/Nicole/Desktop/C++/assignment9/a9.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Desktop/C++/assignment9/a9.cpp364163849#364163851#0(0"0(0#0#44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp8611853312#1348"    cd /Users/Nicole/Desktop/C++/assignment9    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment9/build/Debug -I/Users/Nicole/Desktop/C++/assignment9/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment9/a9.cpp -o /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o0#
+
+CCompileC build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment9/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9 normal x86_64
+s364163851.069103
+e364163851.341697
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9364163851#364163851#0(0"0(0#0#0"8610653824#509"    cd /Users/Nicole/Desktop/C++/assignment9    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment9/build/Debug -F/Users/Nicole/Desktop/C++/assignment9/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/assignment9.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment90#
+

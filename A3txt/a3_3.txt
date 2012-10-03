@@ -1,0 +1,4 @@
+Enter a number: 5
+Enter an operator (+ , - , x, /): x
+Enter another number: 5
+5x5 is 25

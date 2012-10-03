@@ -1,0 +1,72 @@
+Tassignment4
+v7
+r0
+t361669682.588898
+cCheck dependencies
+cCompileC build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/a4_1.o /Users/Nicole/Desktop/C++/assignment4/a4_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment4/build/Debug/assignment4 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment4/a4_1.cpp
+c000000004FDE6CB20000000000000249
+t1339976882
+s585
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment4/build/Debug/assignment4
+t1339976882
+s11088
+
+N/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/a4_1.o
+t1339976882
+s70440
+
+N/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/assignment4.LinkFileList
+c000000004FDE6CB20000000000000073
+t1339976882
+s115
+
+N/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment4/main.cpp
+c000000004FDE6A2F000000000000008F
+t1339976239
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies361669682#361669682#0(0"0(0#1#0"8600485408#0"0#
+
+CCompileC build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/a4_1.o /Users/Nicole/Desktop/C++/assignment4/a4_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361669682.308174
+e361669682.491517
+r1
+xCompileC
+xbuild/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/a4_1.o
+x/Users/Nicole/Desktop/C++/assignment4/a4_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment4/a4_1.cpp361669682#361669682#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment4/a4_1.cpp8611945408#1352"    cd /Users/Nicole/Desktop/C++/assignment4    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/assignment4-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/assignment4-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/assignment4-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/assignment4-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment4/build/Debug -I/Users/Nicole/Desktop/C++/assignment4/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment4/a4_1.cpp -o /Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/a4_1.o0#
+
+CCompileC build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment4/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment4/build/Debug/assignment4 normal x86_64
+s361669682.491583
+e361669682.588852
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment4/build/Debug/assignment4
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment4/build/Debug/assignment4361669682#361669682#0(0"0(0#0#0"8613644736#509"    cd /Users/Nicole/Desktop/C++/assignment4    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment4/build/Debug -F/Users/Nicole/Desktop/C++/assignment4/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment4/build/assignment4.build/Debug/assignment4.build/Objects-normal/x86_64/assignment4.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment4/build/Debug/assignment40#
+

@@ -1,0 +1,72 @@
+Tassignment3
+v7
+r0
+t361254932.537064
+cCheck dependencies
+cCompileC build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/a3_1.o /Users/Nicole/Desktop/C++/assignment3/a3_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment3/build/Debug/assignment3 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment3/a3_1.cpp
+c000000004FD8189400000000000002B1
+t1339562132
+s689
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment3/build/Debug/assignment3
+t1339562132
+s11088
+
+N/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/a3_1.o
+t1339562132
+s70636
+
+N/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/assignment3.LinkFileList
+c000000004FD818940000000000000073
+t1339562132
+s115
+
+N/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment3/main.cpp
+c000000004FD81550000000000000008F
+t1339561296
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies361254932#361254932#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/a3_1.o /Users/Nicole/Desktop/C++/assignment3/a3_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361254932.172318
+e361254932.413606
+r1
+xCompileC
+xbuild/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/a3_1.o
+x/Users/Nicole/Desktop/C++/assignment3/a3_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment3/a3_1.cpp361254932#361254932#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment3/a3_1.cpp7809643567100341248#1352"    cd /Users/Nicole/Desktop/C++/assignment3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/assignment3-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/assignment3-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/assignment3-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/assignment3-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment3/build/Debug -I/Users/Nicole/Desktop/C++/assignment3/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment3/a3_1.cpp -o /Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/a3_1.o0#
+
+CCompileC build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment3/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment3/build/Debug/assignment3 normal x86_64
+s361254932.413669
+e361254932.537006
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment3/build/Debug/assignment3
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment3/build/Debug/assignment3361254932#361254932#0(0"0(0#0#0"8613200608#509"    cd /Users/Nicole/Desktop/C++/assignment3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment3/build/Debug -F/Users/Nicole/Desktop/C++/assignment3/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment3/build/assignment3.build/Debug/assignment3.build/Objects-normal/x86_64/assignment3.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment3/build/Debug/assignment30#
+

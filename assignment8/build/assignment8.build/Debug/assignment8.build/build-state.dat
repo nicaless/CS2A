@@ -1,0 +1,127 @@
+Tassignment8
+v7
+r0
+t363891229.791076
+cCheck dependencies
+cCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o /Users/Nicole/Desktop/C++/assignment8/client.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction1.o /Users/Nicole/Desktop/C++/assignment8/fraction1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8
+t1342198429
+s17456
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/assignment8.LinkFileList
+c000000004FF9B24200000000000000ED
+t1341764162
+s237
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o
+t1342198429
+s70128
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o
+t1341719233
+s74928
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction1.o
+t1342142297
+s73528
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment8/client.cpp
+c000000004FF9E5C70000000000000531
+t1341777351
+s1329
+i<iostream>
+i"fraction.h"
+
+N/Users/Nicole/Desktop/C++/assignment8/fraction.cpp
+c000000004FF9B1270000000000000F4A
+t1341763879
+s3914
+i<iostream>
+i"fraction.h"
+
+N/Users/Nicole/Desktop/C++/assignment8/fraction.h
+c000000004FFDAF74000000000000093B
+t1342025588
+s2363
+
+N/Users/Nicole/Desktop/C++/assignment8/fraction1.cpp
+c00000000500052970000000000000A93
+t1342198423
+s2707
+i<iostream>
+i"fraction.h"
+
+N/Users/Nicole/Desktop/C++/assignment8/main.cpp
+c000000004FF866D2000000000000008F
+t1341679314
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies363891228#363891228#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o /Users/Nicole/Desktop/C++/assignment8/client.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363891228.606307
+e363891229.461744
+r1
+xCompileC
+xbuild/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o
+x/Users/Nicole/Desktop/C++/assignment8/client.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Nicole/Desktop/C++/assignment8/client.cpp363891228#363891229#0(0"0(0#0#48"/Users/Nicole/Desktop/C++/assignment8/client.cpp7809643567100341248#1356"    cd /Users/Nicole/Desktop/C++/assignment8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment8/build/Debug -I/Users/Nicole/Desktop/C++/assignment8/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment8/client.cpp -o /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o0#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o /Users/Nicole/Desktop/C++/assignment8/fraction.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363412033.623594
+e363412033.873087
+r1
+xCompileC
+xbuild/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o
+x/Users/Nicole/Desktop/C++/assignment8/fraction.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Nicole/Desktop/C++/assignment8/fraction.cpp363412033#363412033#0(0"0(0#0#50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp8609640000#1360"    cd /Users/Nicole/Desktop/C++/assignment8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment8/build/Debug -I/Users/Nicole/Desktop/C++/assignment8/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment8/fraction.cpp -o /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o0#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction1.o /Users/Nicole/Desktop/C++/assignment8/fraction1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363891228.629235
+e363891228.671660
+r1
+xCompileC
+xbuild/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction1.o
+x/Users/Nicole/Desktop/C++/assignment8/fraction1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Nicole/Desktop/C++/assignment8/fraction1.cpp363891228#363891228#0(0"0(0#0#51"/Users/Nicole/Desktop/C++/assignment8/fraction1.cpp8606456736#1362"    cd /Users/Nicole/Desktop/C++/assignment8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment8/build/Debug -I/Users/Nicole/Desktop/C++/assignment8/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment8/fraction1.cpp -o /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction1.o0#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8 normal x86_64
+s363891229.461841
+e363891229.791032
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8363891229#363891229#0(0"0(0#0#0"8606783552#509"    cd /Users/Nicole/Desktop/C++/assignment8    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment8/build/Debug -F/Users/Nicole/Desktop/C++/assignment8/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/assignment8.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment80#
+

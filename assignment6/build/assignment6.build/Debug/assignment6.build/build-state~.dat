@@ -1,0 +1,63 @@
+Tassignment6
+v7
+r0
+t362017705.674905
+cCheck dependencies
+cCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o /Users/Nicole/Desktop/C++/assignment6/a6.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment6/a6.cpp
+c000000004FE3BC2900000000000001F6
+t1340324905
+s502
+
+N/Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/assignment6.LinkFileList
+c000000004FE3BC290000000000000071
+t1340324905
+s113
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment6/main.cpp
+c000000004FE3B95B000000000000008F
+t1340324187
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362017705#362017705#0(0"0(0#1#0"8612864640#0"0#
+
+CCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o /Users/Nicole/Desktop/C++/assignment6/a6.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362017705.664149
+e362017705.674855
+r0
+xCompileC
+xbuild/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o
+x/Users/Nicole/Desktop/C++/assignment6/a6.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#362017705#0(692"/Users/Nicole/Desktop/C++/assignment6/a6.cpp: In function 'int main()':/Users/Nicole/Desktop/C++/assignment6/a6.cpp:14: error: 'drawCone' was not declared in this scope/Users/Nicole/Desktop/C++/assignment6/a6.cpp:15: error: 'drawBox' was not declared in this scope/Users/Nicole/Desktop/C++/assignment6/a6.cpp: In function 'void drawCone()':/Users/Nicole/Desktop/C++/assignment6/a6.cpp:22: error: 'cout' was not declared in this scope/Users/Nicole/Desktop/C++/assignment6/a6.cpp:22: error: 'endl' was not declared in this scope/Users/Nicole/Desktop/C++/assignment6/a6.cpp: At global scope:/Users/Nicole/Desktop/C++/assignment6/a6.cpp:28: error: expected unqualified-id before '{' token6(4@41"'drawCone' was not declared in this scope362017705#72#98#0(6@44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#14#0#14#0#34"'*' was not declared in this scope0(4@40"'drawBox' was not declared in this scope362017705#170#97#0(6@44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#15#0#15#0#34"'*' was not declared in this scope0(4@37"'cout' was not declared in this scope362017705#344#94#0(6@44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#22#0#22#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope362017705#438#94#0(6@44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#22#0#22#0#34"'*' was not declared in this scope0(23@16"At global scope:362017705#532#63#0(6@44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#0#0#0#0#0"0(4@40"Expected unqualified-id before '{' token362017705#595#97#0(6@44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp362017705#28#0#28#0#19"expected * before *0(0#0#44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp8615735104#1348"    cd /Users/Nicole/Desktop/C++/assignment6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment6/build/Debug -I/Users/Nicole/Desktop/C++/assignment6/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment6/a6.cpp -o /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o1#
+
+CCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment6/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6 normal x86_64
+r0
+

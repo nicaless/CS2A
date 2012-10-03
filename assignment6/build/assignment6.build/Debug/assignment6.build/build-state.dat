@@ -1,0 +1,95 @@
+Tassignment6
+v7
+r0
+t362520457.103169
+cCheck dependencies
+cCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o /Users/Nicole/Desktop/C++/assignment6/a6.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment6/a6.cpp
+c000000004FE622B70000000000001C99
+t1340482231
+s7321
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment6/a6_1.cpp
+c000000004FE622B70000000000001C99
+t1340482231
+s7321
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6
+t1340827657
+s17120
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o
+t1340827657
+s79364
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6_1.o
+t1340482196
+s79372
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/assignment6.LinkFileList
+c000000004FEB68070000000000000071
+t1340827655
+s113
+
+N/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment6/main.cpp
+c000000004FE3B95B000000000000008F
+t1340324187
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362520455#362520455#0(0"0(0#1#0"8611063392#0"0#
+
+CCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o /Users/Nicole/Desktop/C++/assignment6/a6.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362520455.707069
+e362520457.012001
+r1
+xCompileC
+xbuild/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o
+x/Users/Nicole/Desktop/C++/assignment6/a6.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Desktop/C++/assignment6/a6.cpp362520455#362520457#0(0"0(0#0#44"/Users/Nicole/Desktop/C++/assignment6/a6.cpp8615856704#1348"    cd /Users/Nicole/Desktop/C++/assignment6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment6/build/Debug -I/Users/Nicole/Desktop/C++/assignment6/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment6/a6.cpp -o /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6.o0#
+
+CCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6_1.o /Users/Nicole/Desktop/C++/assignment6/a6_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362175032.112049
+e362175032.131895
+r1
+xCompileC
+xbuild/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6_1.o
+x/Users/Nicole/Desktop/C++/assignment6/a6_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment6/a6_1.cpp362175032#362175032#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment6/a6_1.cpp8613884256#1352"    cd /Users/Nicole/Desktop/C++/assignment6    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/assignment6-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment6/build/Debug -I/Users/Nicole/Desktop/C++/assignment6/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment6/a6_1.cpp -o /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/a6_1.o0#
+
+CCompileC build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment6/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6 normal x86_64
+s362520457.012086
+e362520457.103122
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment6362520457#362520457#0(0"0(0#0#0"8611067424#509"    cd /Users/Nicole/Desktop/C++/assignment6    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment6/build/Debug -F/Users/Nicole/Desktop/C++/assignment6/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment6/build/assignment6.build/Debug/assignment6.build/Objects-normal/x86_64/assignment6.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment6/build/Debug/assignment60#
+

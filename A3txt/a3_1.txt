@@ -1,0 +1,8 @@
+Enter the type of figure (s or t): t
+Enter the base: 4
+Enter the height: 3
+The area is 6
+
+Enter the type of figure (s or t): s
+Enter the length of a side: 9
+The area is 81

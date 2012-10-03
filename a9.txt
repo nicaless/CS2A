@@ -1,0 +1,25 @@
+Enter a sequence of characters (end with '.'): Shards of Daylight pierce the cloak of Night and slice its remnants int0 soft $hadows. endquote
+
+Letter:    Number of Occurrences
+     s     7
+     t     7
+     i     6
+     a     6
+     e     5
+     h     5
+     n     5
+     o     5
+     d     4
+     l     3
+     f     3
+     r     3
+     c     3
+     g     2
+     k     1
+     p     1
+     m     1
+     w     1
+     y     1
+logout
+
+

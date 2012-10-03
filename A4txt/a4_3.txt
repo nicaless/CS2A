@@ -1,0 +1,20 @@
+Enter age of attendee (negative number to quit): 53
+Enter gender (M or F): F
+Enter age of attendee (negative number to quit): 39
+Enter gender (M or F): F
+Enter age of attendee (negative number to quit): 23
+Enter gender (M or F): F
+Enter age of attendee (negative number to quit): 21
+Enter gender (M or F): F
+Enter age of attendee (negative number to quit): -1000
+age 0  to 18: 1
+age 19 to 30: 2
+age 31 to 40: 2
+age 41 to 60: 1
+over 60: 1
+
+males: 2
+females: 5
+The average age was 36.
+The youngest person in attendance was 16.
+The oldest person in attendance was 68.

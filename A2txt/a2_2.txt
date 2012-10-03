@@ -1,0 +1,5 @@
+enter degrees Celsius: 30
+30 degrees Celsius is 86 degrees Fahrenheit.
+logout
+
+[Process completed]

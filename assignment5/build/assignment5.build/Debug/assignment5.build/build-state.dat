@@ -1,0 +1,95 @@
+Tassignment5
+v7
+r0
+t362701460.762085
+cCheck dependencies
+cCompileC build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_2.o /Users/Nicole/Desktop/C++/assignment5/a5_2.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment5/build/Debug/assignment5 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment5/a5_1.cpp
+c000000004FEB674A000000000000059B
+t1340827466
+s1435
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment5/a5_2.cpp
+c000000004FE6136F00000000000004DC
+t1340478319
+s1244
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment5/build/Debug/assignment5
+t1340827569
+s10936
+
+N/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_1.o
+t1340827469
+s70496
+
+N/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_2.o
+t1340478319
+s70216
+
+N/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/assignment5.LinkFileList
+c000000004FEB67B10000000000000073
+t1340827569
+s115
+
+N/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment5/main.cpp
+c000000004FDF66D0000000000000008F
+t1340040912
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362701460#362701460#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_1.o /Users/Nicole/Desktop/C++/assignment5/a5_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362520267.124106
+e362520269.594730
+r1
+xCompileC
+xbuild/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_1.o
+x/Users/Nicole/Desktop/C++/assignment5/a5_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment5/a5_1.cpp362520267#362520269#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment5/a5_1.cpp7809643567100341248#1352"    cd /Users/Nicole/Desktop/C++/assignment5    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment5/build/Debug -I/Users/Nicole/Desktop/C++/assignment5/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment5/a5_1.cpp -o /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_1.o0#
+
+CCompileC build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_2.o /Users/Nicole/Desktop/C++/assignment5/a5_2.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362171119.263426
+e362171119.561205
+r1
+xCompileC
+xbuild/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_2.o
+x/Users/Nicole/Desktop/C++/assignment5/a5_2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Nicole/Desktop/C++/assignment5/a5_2.cpp362171119#362171119#0(0"0(0#0#46"/Users/Nicole/Desktop/C++/assignment5/a5_2.cpp8607163968#1352"    cd /Users/Nicole/Desktop/C++/assignment5    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/assignment5-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment5/build/Debug -I/Users/Nicole/Desktop/C++/assignment5/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment5/a5_2.cpp -o /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/a5_2.o0#
+
+CCompileC build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment5/build/Debug/assignment5 normal x86_64
+s362520369.785938
+e362520369.863161
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment5/build/Debug/assignment5
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment5/build/Debug/assignment5362520369#362520369#0(0"0(0#0#0"12103608686542896#509"    cd /Users/Nicole/Desktop/C++/assignment5    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment5/build/Debug -F/Users/Nicole/Desktop/C++/assignment5/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment5/build/assignment5.build/Debug/assignment5.build/Objects-normal/x86_64/assignment5.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment5/build/Debug/assignment50#
+

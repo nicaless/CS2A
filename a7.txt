@@ -1,0 +1,53 @@
+Enter problems per set: 5
+
+Set #1
+----------
+
+What is the maximum number for this set? 10 
+
+10 + 5 = 15
+correct
+7 + 6 = 13
+correct
+7 + 6 = 0
+incorrect
+2 + 8 = 10
+correct
+8 + 10 = 18
+correct
+Set #2
+----------
+
+What is the maximum number for this set? 10
+
+8 - 0 = 0
+incorrect
+3 - 1 = 2
+correct
+3 - 6 = -3
+correct
+4 - 2 = -2
+incorrect
+9 - 4 = 5
+correct
+Set # 3
+----------
+
+What is the maximum number for this set? 10
+
+1 * 4 = 0
+incorrect
+4 * 5 = 20
+correct
+5 * 4 = 20
+correct
+6 * 0 = 6
+incorrect
+2 * 3 = 6
+correct
+
+Set#1: You got 4 correct out of 5 for 80%
+Set#2: You got 3 correct out of 5 for 60%
+Set#3: You got 3 correct out of 5 for 60%
+Overall you got 10 correct out of 15 for 67%
+	

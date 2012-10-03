@@ -1,0 +1,10 @@
+Do you want to convert pounds to ounces (Y/N)? Y
+enter number of pounds: 4
+4 pounds is 64 ounces.
+Do you want to convert pounds to ounces (Y/N)? Y
+enter number of pounds: 6
+6 pounds is 96 ounces.
+Do you want to convert pounds to ounces (Y/N)? Y
+enter number of pounds: 8
+8 pounds is 128 ounces.
+Do you want to convert pounds to ounces (Y/N)? N

@@ -1,0 +1,64 @@
+Tassignment9
+v7
+r0
+t363830852.867038
+cCheck dependencies
+cCompileC build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o /Users/Nicole/Desktop/C++/assignment9/a9.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment9/a9.cpp
+c000000004FFF645B00000000000006AA
+t1342137435
+s1706
+i<iostream>
+
+N/Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/assignment9.LinkFileList
+c000000004FFF66C40000000000000071
+t1342138052
+s113
+
+N/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment9/main.cpp
+c000000004FFF1DF3000000000000008F
+t1342119411
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies363830852#363830852#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o /Users/Nicole/Desktop/C++/assignment9/a9.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363830852.804814
+e363830852.866983
+r0
+xCompileC
+xbuild/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o
+x/Users/Nicole/Desktop/C++/assignment9/a9.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Desktop/C++/assignment9/a9.cpp363830852#363830852#0(1617"/Users/Nicole/Desktop/C++/assignment9/a9.cpp:16: error: variable or field 'createArray' declared void/Users/Nicole/Desktop/C++/assignment9/a9.cpp:16: error: 'ArrayStruct' was not declared in this scope/Users/Nicole/Desktop/C++/assignment9/a9.cpp:17: error: variable or field 'readInput' declared void/Users/Nicole/Desktop/C++/assignment9/a9.cpp:17: error: 'ArrayStruct' was not declared in this scope/Users/Nicole/Desktop/C++/assignment9/a9.cpp:18: error: variable or field 'sortArray' declared void/Users/Nicole/Desktop/C++/assignment9/a9.cpp:18: error: 'ArrayStruct' was not declared in this scope/Users/Nicole/Desktop/C++/assignment9/a9.cpp:19: error: variable or field 'printArrayExcept' declared void/Users/Nicole/Desktop/C++/assignment9/a9.cpp:19: error: 'ArrayStruct' was not declared in this scope/Users/Nicole/Desktop/C++/assignment9/a9.cpp:19: error: expected primary-expression before 'int'/Users/Nicole/Desktop/C++/assignment9/a9.cpp:28: error: new types may not be defined in a return type/Users/Nicole/Desktop/C++/assignment9/a9.cpp:28: note: (perhaps a semicolon is missing after the definition of 'ArrayStruct')/Users/Nicole/Desktop/C++/assignment9/a9.cpp:28: error: two or more data types in declaration of 'main'/Users/Nicole/Desktop/C++/assignment9/a9.cpp: In function 'void readInput(ArrayStruct*)':/Users/Nicole/Desktop/C++/assignment9/a9.cpp:71: error: 'ch' was not declared in this scope/Users/Nicole/Desktop/C++/assignment9/a9.cpp:74: error: 'chFrequency' was not declared in this scope/Users/Nicole/Desktop/C++/assignment9/a9.cpp:76: error: 'ch' was not declared in this scope15(4@45"Variable or field 'createArray' declared void363830852#0#102#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#16#0#16#0#0"0(4@44"'ArrayStruct' was not declared in this scope363830852#102#101#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#16#0#16#0#34"'*' was not declared in this scope0(4@43"Variable or field 'readInput' declared void363830852#203#100#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#17#0#17#0#0"0(4@44"'ArrayStruct' was not declared in this scope363830852#303#101#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#17#0#17#0#34"'*' was not declared in this scope0(4@43"Variable or field 'sortArray' declared void363830852#404#100#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#18#0#18#0#0"0(4@44"'ArrayStruct' was not declared in this scope363830852#504#101#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#18#0#18#0#34"'*' was not declared in this scope0(4@50"Variable or field 'printArrayExcept' declared void363830852#605#107#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#19#0#19#0#0"0(4@44"'ArrayStruct' was not declared in this scope363830852#712#101#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#19#0#19#0#34"'*' was not declared in this scope0(4@40"Expected primary-expression before 'int'363830852#813#97#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#19#0#19#0#19"expected * before *0(4@45"New types may not be defined in a return type363830852#910#102#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#28#0#28#0#0"0(13@70"(perhaps a semicolon is missing after the definition of 'ArrayStruct')363830852#1012#126#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#28#0#28#0#0"0(4@47"Two or more data types in declaration of 'main'363830852#1138#104#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#28#0#28#0#0"0(4@35"'ch' was not declared in this scope363830852#1332#92#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#71#0#71#0#34"'*' was not declared in this scope0(4@44"'chFrequency' was not declared in this scope363830852#1424#101#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#74#0#74#0#34"'*' was not declared in this scope0(4@35"'ch' was not declared in this scope363830852#1525#92#0(6@44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp363830235#76#0#76#0#34"'*' was not declared in this scope0(0#0#44"/Users/Nicole/Desktop/C++/assignment9/a9.cpp7809643567100341248#1348"    cd /Users/Nicole/Desktop/C++/assignment9    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/assignment9-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment9/build/Debug -I/Users/Nicole/Desktop/C++/assignment9/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment9/a9.cpp -o /Users/Nicole/Desktop/C++/assignment9/build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/a9.o1#
+
+CCompileC build/assignment9.build/Debug/assignment9.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment9/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment9/build/Debug/assignment9 normal x86_64
+r0
+

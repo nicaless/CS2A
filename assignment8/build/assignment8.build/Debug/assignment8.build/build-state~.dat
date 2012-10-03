@@ -1,0 +1,108 @@
+Tassignment8
+v7
+r0
+t363373197.482131
+cCheck dependencies
+cCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o /Users/Nicole/Desktop/C++/assignment8/client.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o /Users/Nicole/Desktop/C++/assignment8/fraction.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/assignment8.LinkFileList
+c000000004FF86B0D00000000000000EC
+t1341680397
+s236
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment8/client.cpp
+c000000004FF86B0A000000000000053D
+t1341680394
+s1341
+i<iostream>
+i"fraction.h"
+
+N/Users/Nicole/Desktop/C++/assignment8/fraction.cpp
+c000000004FF86B07000000000000019A
+t1341680391
+s410
+i<iostream>
+i"fraction.h"
+
+N/Users/Nicole/Desktop/C++/assignment8/fraction.h
+c000000004FF86B00000000000000011C
+t1341680384
+s284
+
+N/Users/Nicole/Desktop/C++/assignment8/main.cpp
+c000000004FF866D2000000000000008F
+t1341679314
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies363373197#363373197#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o /Users/Nicole/Desktop/C++/assignment8/client.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363373197.177678
+e363373197.206352
+r0
+xCompileC
+xbuild/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o
+x/Users/Nicole/Desktop/C++/assignment8/client.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Nicole/Desktop/C++/assignment8/client.cpp363373197#363373197#0(357"/Users/Nicole/Desktop/C++/assignment8/client.cpp: In function 'int main()':/Users/Nicole/Desktop/C++/assignment8/client.cpp:7: error: 'fraction' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/client.cpp:7: error: expected `;' before 'f1'/Users/Nicole/Desktop/C++/assignment8/client.cpp:34: error: 'f1' was not declared in this scope3(4@41"'fraction' was not declared in this scope363373197#76#101#0(6@48"/Users/Nicole/Desktop/C++/assignment8/client.cpp363373194#7#0#7#0#34"'*' was not declared in this scope0(4@24"Expected `;' before 'f1'363373197#177#84#0(6@48"/Users/Nicole/Desktop/C++/assignment8/client.cpp363373194#7#0#7#0#19"expected * before *0(4@35"'f1' was not declared in this scope363373197#261#96#0(6@48"/Users/Nicole/Desktop/C++/assignment8/client.cpp363373194#34#0#34#0#34"'*' was not declared in this scope0(0#0#48"/Users/Nicole/Desktop/C++/assignment8/client.cpp7809643567100341248#1356"    cd /Users/Nicole/Desktop/C++/assignment8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment8/build/Debug -I/Users/Nicole/Desktop/C++/assignment8/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment8/client.cpp -o /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/client.o1#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o /Users/Nicole/Desktop/C++/assignment8/fraction.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s363373197.206412
+e363373197.482063
+r0
+xCompileC
+xbuild/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o
+x/Users/Nicole/Desktop/C++/assignment8/fraction.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Nicole/Desktop/C++/assignment8/fraction.cpp:11:
+o/Users/Nicole/Desktop/C++/assignment8/fraction.h:10:1: error: unterminated #ifndef
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:12: error: expected unqualified-id before 'using'
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp: In constructor 'fraction::fraction()':
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:16: error: 'numer' was not declared in this scope
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:17: error: 'denom' was not declared in this scope
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp: In constructor 'fraction::fraction(int, int)':
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:22: error: 'numer' was not declared in this scope
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:23: error: 'demon' was not declared in this scope
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp: In member function 'void fraction::print() const':
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:28: error: 'cout' was not declared in this scope
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:28: error: 'numer' was not declared in this scope
+o/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:28: error: 'denom' was not declared in this scope
+lSLF07#2@58"Compile /Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373197#363373197#0(1260"In file included from /Users/Nicole/Desktop/C++/assignment8/fraction.cpp:11:/Users/Nicole/Desktop/C++/assignment8/fraction.h:10:1: error: unterminated #ifndef/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:12: error: expected unqualified-id before 'using'/Users/Nicole/Desktop/C++/assignment8/fraction.cpp: In constructor 'fraction::fraction()':/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:16: error: 'numer' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:17: error: 'denom' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/fraction.cpp: In constructor 'fraction::fraction(int, int)':/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:22: error: 'numer' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:23: error: 'demon' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/fraction.cpp: In member function 'void fraction::print() const':/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:28: error: 'cout' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:28: error: 'numer' was not declared in this scope/Users/Nicole/Desktop/C++/assignment8/fraction.cpp:28: error: 'denom' was not declared in this scope9(4@20"Unterminated #ifndef363373197#77#83#2(7@72"In file included from /Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373197#18446744073709551615#0#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#11#0#11#0#0"0(13@72"Unterminated #ifndef in /Users/Nicole/Desktop/C++/assignment8/fraction.h363373197#18446744073709551615#0#0(6@48"/Users/Nicole/Desktop/C++/assignment8/fraction.h363373184#10#0#10#0#0"0(6@48"/Users/Nicole/Desktop/C++/assignment8/fraction.h363373184#10#0#10#0#0"0(4@38"Expected unqualified-id before 'using'363373197#160#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#12#0#12#0#19"expected * before *0(4@38"'numer' was not declared in this scope363373197#352#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#16#0#16#0#34"'*' was not declared in this scope0(4@38"'denom' was not declared in this scope363373197#453#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#17#0#17#0#34"'*' was not declared in this scope0(4@38"'numer' was not declared in this scope363373197#653#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#22#0#22#0#34"'*' was not declared in this scope0(4@38"'demon' was not declared in this scope363373197#754#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#23#0#23#0#34"'*' was not declared in this scope0(4@37"'cout' was not declared in this scope363373197#958#100#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#28#0#28#0#34"'*' was not declared in this scope0(4@38"'numer' was not declared in this scope363373197#1058#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#28#0#28#0#34"'*' was not declared in this scope0(4@38"'denom' was not declared in this scope363373197#1159#101#0(6@50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp363373191#28#0#28#0#34"'*' was not declared in this scope0(0#0#50"/Users/Nicole/Desktop/C++/assignment8/fraction.cpp8611353152#1360"    cd /Users/Nicole/Desktop/C++/assignment8    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/assignment8-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment8/build/Debug -I/Users/Nicole/Desktop/C++/assignment8/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment8/fraction.cpp -o /Users/Nicole/Desktop/C++/assignment8/build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/fraction.o1#
+
+CCompileC build/assignment8.build/Debug/assignment8.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment8/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment8/build/Debug/assignment8 normal x86_64
+r0
+

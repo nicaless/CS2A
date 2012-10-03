@@ -1,0 +1,2 @@
+Enter number of years of schooling: 15
+college

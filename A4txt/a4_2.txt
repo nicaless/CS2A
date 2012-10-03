@@ -1,0 +1,8 @@
+enter number of pounds (negative number to quit): 4
+4 pounds is 64 ounces.
+enter number of pounds (negative number to quit): 6
+6 pounds is 96 ounces.
+enter number of pounds (negative number to quit): 8
+8 pounds is 128 ounces.
+enter number of pounds (negative number to quit): -1
+logout

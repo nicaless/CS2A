@@ -1,0 +1,74 @@
+Tassignment7
+v7
+r0
+t362704062.423525
+cCheck dependencies
+cCompileC build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/a7.o /Users/Nicole/Desktop/C++/assignment7/a7.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Nicole/Desktop/C++/assignment7/build/Debug/assignment7 normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Desktop/C++/assignment7/a7.cpp
+c000000004FF664810000000000001E43
+t1341547649
+s7747
+i<iostream>
+i<iomanip>
+i<cstdlib>
+
+N/Users/Nicole/Desktop/C++/assignment7/build/Debug/assignment7
+t1341011262
+s18768
+
+N/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/a7.o
+t1341011262
+s83316
+
+N/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/assignment7.LinkFileList
+c000000004FE77B780000000000000071
+t1340570488
+s113
+
+N/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Desktop/C++/assignment7/main.cpp
+c000000004FE77B56000000000000008F
+t1340570454
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362704062#362704062#0(0"0(0#1#0"8599305824#0"0#
+
+CCompileC build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/a7.o /Users/Nicole/Desktop/C++/assignment7/a7.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362704062.046805
+e362704062.367300
+r1
+xCompileC
+xbuild/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/a7.o
+x/Users/Nicole/Desktop/C++/assignment7/a7.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Desktop/C++/assignment7/a7.cpp362704062#362704062#0(0"0(0#0#44"/Users/Nicole/Desktop/C++/assignment7/a7.cpp8613153600#1348"    cd /Users/Nicole/Desktop/C++/assignment7    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/assignment7-generated-files.hmap -I/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/assignment7-own-target-headers.hmap -I/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/assignment7-all-target-headers.hmap -iquote /Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/assignment7-project-headers.hmap -F/Users/Nicole/Desktop/C++/assignment7/build/Debug -I/Users/Nicole/Desktop/C++/assignment7/build/Debug/include -I/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/DerivedSources/x86_64 -I/Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/DerivedSources -c /Users/Nicole/Desktop/C++/assignment7/a7.cpp -o /Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/a7.o0#
+
+CCompileC build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/main.o /Users/Nicole/Desktop/C++/assignment7/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Desktop/C++/assignment7/build/Debug/assignment7 normal x86_64
+s362704062.367372
+e362704062.423451
+r1
+xLd
+x/Users/Nicole/Desktop/C++/assignment7/build/Debug/assignment7
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Nicole/Desktop/C++/assignment7/build/Debug/assignment7362704062#362704062#0(0"0(0#0#0"8611829280#509"    cd /Users/Nicole/Desktop/C++/assignment7    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Nicole/Desktop/C++/assignment7/build/Debug -F/Users/Nicole/Desktop/C++/assignment7/build/Debug -filelist /Users/Nicole/Desktop/C++/assignment7/build/assignment7.build/Debug/assignment7.build/Objects-normal/x86_64/assignment7.LinkFileList -mmacosx-version-min=10.6 -o /Users/Nicole/Desktop/C++/assignment7/build/Debug/assignment70#
+

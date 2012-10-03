@@ -1,0 +1,69 @@
+Tassignment2
+v7
+r0
+t361167514.868887
+cCheck dependencies
+cCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o /Users/Nicole/Documents/assignment2/a2_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Users/Nicole/Documents/assignment2/a2_1.cpp
+c000000004FD6C31A000000000000031A
+t1339474714
+s794
+i<iostream>
+
+N/Users/Nicole/Documents/assignment2/a2_1.h
+c000000004FD6BE14000000000000008D
+t1339473428
+s141
+
+N/Users/Nicole/Documents/assignment2/build/Debug/assignment2
+t2
+s0
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o
+t2
+s0
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/assignment2.LinkFileList
+c000000004FD6C31A0000000000000071
+t1339474714
+s113
+
+N/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Nicole/Documents/assignment2/main.cpp
+c000000004FD6BDEB000000000000008F
+t1339473387
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies361167514#361167514#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o /Users/Nicole/Documents/assignment2/a2_1.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s361167514.493504
+e361167514.868571
+r0
+xCompileC
+xbuild/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o
+x/Users/Nicole/Documents/assignment2/a2_1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Nicole/Documents/assignment2/a2_1.cpp361167514#361167514#0(413"/Users/Nicole/Documents/assignment2/a2_1.cpp: In function 'int main()':/Users/Nicole/Documents/assignment2/a2_1.cpp:27: error: invalid conversion from 'int (*)()' to 'int'/Users/Nicole/Documents/assignment2/a2_1.cpp:28: error: expected `}' before 'else'/Users/Nicole/Documents/assignment2/a2_1.cpp: At global scope:/Users/Nicole/Documents/assignment2/a2_1.cpp:42: error: expected declaration before '}' token4(4@44"Invalid conversion from 'int (*)()' to 'int'361167514#72#101#0(6@44"/Users/Nicole/Documents/assignment2/a2_1.cpp361167514#27#0#27#0#34"invalid conversion from '*' to '*'0(4@26"Expected `}' before 'else'361167514#173#83#0(6@44"/Users/Nicole/Documents/assignment2/a2_1.cpp361167514#28#0#28#0#19"expected * before *0(23@16"At global scope:361167514#256#63#0(6@44"/Users/Nicole/Documents/assignment2/a2_1.cpp361167514#0#0#0#0#0"0(4@37"Expected declaration before '}' token361167514#319#94#0(6@44"/Users/Nicole/Documents/assignment2/a2_1.cpp361167514#42#0#42#0#19"expected * before *0(0#0#44"/Users/Nicole/Documents/assignment2/a2_1.cpp7809643567100341248#1330"    cd /Users/Nicole/Documents/assignment2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-generated-files.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-own-target-headers.hmap -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-all-target-headers.hmap -iquote /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/assignment2-project-headers.hmap -F/Users/Nicole/Documents/assignment2/build/Debug -I/Users/Nicole/Documents/assignment2/build/Debug/include -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources/x86_64 -I/Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/DerivedSources -c /Users/Nicole/Documents/assignment2/a2_1.cpp -o /Users/Nicole/Documents/assignment2/build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/a2_1.o1#
+
+CCompileC build/assignment2.build/Debug/assignment2.build/Objects-normal/x86_64/main.o /Users/Nicole/Documents/assignment2/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Nicole/Documents/assignment2/build/Debug/assignment2 normal x86_64
+r0
+
