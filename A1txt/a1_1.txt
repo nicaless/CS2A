@@ -1,0 +1,15 @@
+Tran says this is her first computer program.
+Tran says this is her
+first computer program.
+Tran says this is her
+first computer program.
+Tran says this is her first computer program.
+Tran said, "This is my first computer program."
+Tran said, "This is my
+first computer program. "
+Tran said, "This is my
+first computer program."
+Tran said, "This is my first computer program."
+logout
+
+[Process completed]

@@ -1,0 +1,6 @@
+enter number of pounds: 7
+7 pounds is 112 ounces.
+logout
+
+[Process completed]
+
